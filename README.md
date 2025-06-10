@@ -31,8 +31,8 @@ Developed and deployed a web-based prototype that demonstrates the ability to pe
 <li>Enter keywords to search and view highlighted results.</li><br>
 
 **Screenshot:**
+![Uploading Screenshot_27-9-2024_143253_huggingface.co.jpeg…]()
 
-![App screenshot](./Screenshot_27-9-2024_143253_huggingface.co.jpeg)
 
 ### Acknowledgement
 
